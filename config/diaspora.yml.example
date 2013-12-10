@@ -201,12 +201,12 @@ configuration: ## Section
   
     ## The name of your pod displayed in various locations,
     ## including the header.
-    #pod_name: "DiaSFORA*"
+    pod_name: "DiaSFORA*"
     
     ## Set this to false to prevent people from signing up for your pod
     ## without an invitation. Note that this needs to be true even for
     ## the first registration (you).
-    #enable_registrations: true
+    enable_registrations: false
     
     ## Users will automatically follow a specified account on creation
     ## Set this to false if you don't want your users to automatically
